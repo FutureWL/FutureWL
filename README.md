@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI、UAV
 - 🌱 我正在学习一些有关于 AI 和 无人机的事情
 - 
-## 非常欢迎大家选择我的编程技术学习分享仓库
+## 欢迎大家 和我一起 学习编程技术 分享知识
 
 - [C++ 学习](https://github.com/FutureWL/ZHIYE_CSPJS)
 - [Java 学习](https://github.com/FutureWL/java-se-samples)
