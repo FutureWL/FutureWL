@@ -1,6 +1,6 @@
 ## Hi there 👋 大家好 👋
 
-我是 **FutureWL**，正在做 3D 打印、无人机（UAV）和 AI 相关的事情。
+我是 **FutureWL**，做企业级数字化平台与 AI Agent 工具链；业余折腾 3D 打印和无人机（UAV）。
 
 ## 🏗️ 主项目：LieShouCloud · 猎手云
 
@@ -34,9 +34,12 @@ LieShouCloud 是猎手云的开源核心版，通过 **能力域 + 四维正交�
 
 ## 🔭 正在做的事
 
-- 3D 打印、无人机（UAV）、AI
-- 学习 AI、UAV 相关技术
+- **猎手云 LieShouCloud** —— 一套代码库装配任意行业 / 任意形态的企业数字化平台；多端交付已落地 legalmind、huntercat、zhiye、linkesecurity 等客户仓
+- **AI Agent 工程** —— 多智能体 · 多会话并行协作的编排与治理、Agent 工具链、浏览器/桌面本地自动化闭环
+- **开源与教学示例** —— [`frontend-samples`](https://github.com/FutureWL/frontend-samples) · [`spring-framework-samples`](https://github.com/FutureWL/spring-framework-samples) · [`javaweb-samples`](https://github.com/FutureWL/javaweb-samples)
+- 业余：3D 打印、无人机（UAV）
 
 ## 📫 联系
 
-- 🌐 [猎手云](https://huntercat.cn)
+- 🌐 [猎手云](https://huntercat.cn) ｜ 📝 [博客](https://FutureWL.github.io) ｜ 🐦 [X / Twitter](https://x.com/Future0929)
+- 📣 公众号「**AI进化论**」（魏来AI进化论）— 写 AI 落地与工程实践，[最近一篇](https://mp.weixin.qq.com/s/h1Q8cr7IXbTlB-7_RtT2pQ)
